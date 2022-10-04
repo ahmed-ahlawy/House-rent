@@ -328,6 +328,7 @@ font-size: 1rem;
 }
 .newsletter #email-box {
 width: 280px;
+background-color: transparent;
 }
 .newsletter .btn {
 padding: 12px 35px;
