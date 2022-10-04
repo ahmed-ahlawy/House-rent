@@ -335,6 +335,7 @@ padding: 12px 35px;
 font-weight: 600;
 font-family: sans-serif;
 letter-spacing: 1px;
+cursor: pointer;
 }
 .newsletter form  #email-box:focus::placeholder
 {
